@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Kinder Scout Ciruclar - Kinder Reservoir and Downfall",
+        "from": "Hayfield",
+        "to": "Hayfield",
+        "route_start_point": "Bowden Bridge Car Park, SK22 2LH",
+        "public_transport_route": [
+            {"mode": ["Bus", "Bus"], "departure": "Picadilly Gardens", "arrival": "Hayfield Bus Station", "changes": 1, "travel_time_minutes": 90}
+        ],
+        "distance_km": 13.9,
+        "duration_hours": {"min": 4.5, "max": 5.5},
+        "elevation_m": 596,
+        "pubs_on_route": true
+    },
+    {
+        "id": 2,
+        "name": "Dovestone Reservoir Circular - The Trinnacles and Saddleworth Moor",
+        "from": "Greenfield",
+        "to": "Greenfield",
+        "route_start_point": "Dovestone Car Park, OL3 7NE",
+        "public_transport_route": [
+            {"mode": ["Train", "Bus"], "departure": "Manchester Victoria", "arrival": "Clarence Hotel", "changes": 1, "travel_time_minutes": 37}
+        ],
+        "distance_km": 8,
+        "duration_hours": {"min": 3, "max": 4},
+        "elevation_m": 380,
+        "pubs_on_route": true
+    }
+]
