@@ -1,2 +1,2 @@
 # hiking-routes
-Creating a Python application using TDD to store and access hiking routes accessible by train from Manchester
+Creating an API in Python using Test-Driven Development to store and access hiking routes accessible by train from Manchester.
