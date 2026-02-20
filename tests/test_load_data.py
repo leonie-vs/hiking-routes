@@ -1,6 +1,5 @@
 import pytest
 from app.load_data import HikingRoutes
-from app.models import PublicTransportRoute, DurationHours, Hike
 
 # Test 1
 def test_HikingRoutes_file_path_can_only_be_str():
