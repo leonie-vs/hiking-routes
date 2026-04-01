@@ -50,7 +50,7 @@ hiking-routes/
 │   ├── queries.py        # Filtering logic
 │   ├── load_data.py      # Data access layer
 │   └── data/
-│       └── hikes.json     # Route data
+│       └── routes.json     # Route data
 │
 ├── tests/
 │   └── test_services.py   # Unit tests
